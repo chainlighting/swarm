@@ -1,6 +1,5 @@
 Docker Swarm Roadmap
 =====================
-#forked
 ####Scheduler
 Swarm comes with a builtin scheduler. It currently provides basic functionalities, such as
 scheduling containers based on constraints or affinity (co-scheduling of containers), persistent
